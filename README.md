@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Python and SQL to advanced levels
-- 👯 I’m looking to collaborate on cool film-related projects
-- 💬 Ask me about cinema!
+- 🌱 I’m currently a Junior DevOps Engineer, levelling up my skills in Python, Bash, Docker, Ansible, Terraform, Jenkins, and Kubernetes
+- 💬 Ask me anything about cinema!
 - 😄 Pronouns: she/her
